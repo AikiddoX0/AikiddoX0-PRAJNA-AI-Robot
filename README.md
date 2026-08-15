@@ -4,6 +4,10 @@
 
 Built by **Mayank** — a school science exhibition project combining physical robotics, computer vision, speech recognition, and multi-agent AI orchestration.
 
+![Mayank with PRAJNA](mayank-with-prajna.jpg)
+
+*Mayank with PRAJNA, the AI robot he built for his science exhibition project.*
+
 ## What is PRAJNA?
 
 PRAJNA is a physical AI robotic head with a rotating neck, expressive RGB LED eyes, real-time face tracking, and multilingual voice interaction (Hindi/English/Hinglish). Built using an Arduino Mega, servo motor, RGB LEDs, webcam, microphone, and a laptop running Python with Google Gemini AI.
@@ -38,5 +42,9 @@ Artificial Intelligence · Multi-Agent AI Systems · Computer Vision · Speech R
 Built entirely by **Mayank**, a school student, using accessible materials — no 3D printing, no expensive fabrication, no professional lab.
 
 ---
+## Gallery
 
-*Project featured on [LinkedIn](your-linkedin-post-link-here) and [Instagram](your-instagram-link-here)*
+![PRAJNA Robot](prajna.jpg)
+![Mayank](Mayank.jpg)
+*Project featured on [LinkedIn](your-linkedin-post-link-here) and [Instagram]([[<img width="890" height="1280" alt="WhatsApp Image 2026-08-15 at 11 35 27 PM" src="https://github.com/user-attachments/assets/594f5844-b830-4d97-9aff-3acf1b1ba894" />
+](https://www.instagram.com/itoshi.mayankxo?utm_source=qr&igsh=MXduemI1YnY3ZGJrMg==)](https://www.instagram.com/itoshi.mayankxo?igsh=MXduemI1YnY3ZGJrMg==))*

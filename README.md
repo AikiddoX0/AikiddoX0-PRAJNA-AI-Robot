@@ -46,5 +46,5 @@ Built entirely by **Mayank**, a school student, using accessible materials — n
 
 ![PRAJNA Robot](prajna.jpg)
 ![Mayank](Mayank.jpg)
-*Project featured on [LinkedIn](your-linkedin-post-link-here) and [Instagram]([[<img width="890" height="1280" alt="WhatsApp Image 2026-08-15 at 11 35 27 PM" src="https://github.com/user-attachments/assets/594f5844-b830-4d97-9aff-3acf1b1ba894" />
+*Project featured on [LinkedIn](www.linkedin.com/in/mayank-kumar-8188b7368)[LinkedIn](https://www.linkedin.com/posts/mayank-kumar-8188b7368_ai-robotics-innovation-ugcPost-7494631572109692928-MTRN/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFtCDtQBOZRe--bXiyGI4GexxPG2IsH-aB4) and [Instagram]([[<img width="890" height="1280" alt="WhatsApp Image 2026-08-15 at 11 35 27 PM" src="https://github.com/user-attachments/assets/594f5844-b830-4d97-9aff-3acf1b1ba894" />
 ](https://www.instagram.com/itoshi.mayankxo?utm_source=qr&igsh=MXduemI1YnY3ZGJrMg==)](https://www.instagram.com/itoshi.mayankxo?igsh=MXduemI1YnY3ZGJrMg==))*
